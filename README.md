@@ -2,19 +2,5 @@
 
 # Tarea1_PCD
 
-Este repositorio se hizo para almacenar la tarea#1, en el hay dos ramas la rama master que tiene un archivo README y la rama feature-1 qu tiene el archivo T1Claudia_Castillejos.ipynb 
-
-<script>
-  $(document).ready(function(){
-    $('div.prompt').hide();
-    $('div.back-to-top').hide();
-    $('nav#menubar').hide();
-    $('.breadcrumb').hide();
-    $('.hidden-print').hide();
-  });
-</script>
-
-<footer id="attribution" style="float:right; color:#808080; background:#fff;">
-Created by  Claudia Celeste Castillejos Jáuregui.
-</footer>
+Este repositorio se hizo para almacenar la tarea#1, en el hay dos ramas la rama master que tiene un archivo README y la rama feature-1 que tiene el archivo T1Claudia_Castillejos.ipynb 
 
